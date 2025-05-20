@@ -10,10 +10,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import './index.css';
 
-// Create a root element and render the App component
-// This is the entry point of the React application
-
-// Create a root element and render the App component
+// Entry point: create the root element and render the App component
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 // Render the application inside StrictMode for additional checks and warnings
